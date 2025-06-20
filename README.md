@@ -121,26 +121,11 @@ python career_advisor.py
 
 ---
 
-## 📸 Screenshots
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/your-screenshot-url/demo1.png" width="45%"/>
-  <img src="https://user-images.githubusercontent.com/your-screenshot-url/demo2.png" width="45%"/>
-</p>
-
----
-
 ## 🙏 Acknowledgements
 
 - [IBM watsonx.ai](https://www.ibm.com/products/watsonx-ai)
 - [Gradio](https://gradio.app/)
 - [Unsplash](https://unsplash.com/) for banner images
-
----
-
-## 📬 Contact
-
-Feel free to reach out via [GitHub Issues](https://github.com/Garbii1/AI-Career-Coach/issues) or connect with me on [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile/).
 
 ---
 
